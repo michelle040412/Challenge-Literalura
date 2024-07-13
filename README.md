@@ -1,5 +1,7 @@
+
 ## Proyecto Literalura
 Este proyecto Java proporciona funcionalidades para la gestión de libros y autores utilizando una API externa y una base de datos local
+![badge literalura](https://github.com/user-attachments/assets/04acf5ec-c1aa-4b67-acef-da9aec4d919c)
 
 ## Descripción
 El proyecto se centra en las siguientes funcionalidades principales:
